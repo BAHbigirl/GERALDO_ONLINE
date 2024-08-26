@@ -23,3 +23,4 @@ while (maior < 18):
     maior = ano_atual - ano_nascimento   
 
 print("Você é maior de idade!" )
+

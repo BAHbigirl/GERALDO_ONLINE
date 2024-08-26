@@ -27,3 +27,4 @@ elif escolha == 3:
 elif escolha == 4:
     KC= num - 273
     print(KC)
+

@@ -9,8 +9,5 @@ for qr in l:
 
     rg = [f"{o} {i}" for i in range(1, ro + 1)]
     tr = float(input("Quantos trechos: "))
-    c = float(input("Qual a distancia: "))
+    c = float(input("Qual a comprimento: "))
     vm = float(input("Qual a velocidade media: "))
-    t=int(c/vm)
-    print(t)
-    
