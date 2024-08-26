@@ -1,0 +1,11 @@
+#
+# dado um intervalo de "n" numeros natural, imprimir todos os numeros primos existentes neste intervalo
+#
+
+print("=======================")
+
+primos=int('sequencia de numeros primos')
+
+primos (a=any, b=any)
+list(int)
+

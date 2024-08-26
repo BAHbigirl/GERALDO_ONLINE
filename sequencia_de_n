@@ -1,0 +1,21 @@
+#
+#Dada uma sequencia de "n" numeros, imprimir o maior
+#
+
+#entrada de n
+
+
+
+n=int(input("quantidade de numeros na sequencia: "))
+
+p=0
+p=[int(input('insira o numero'+ str(o+1)+ ': ')for o in range(n))]
+
+maior = 0
+for m in p:
+    if m >maior:
+        maior= m
+
+
+print("o maior numero", maior)
+print("sequencia de numeros", n )
